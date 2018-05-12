@@ -1,0 +1,35 @@
+_repo: Superwomen_39339
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39339-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Terhune, Albert Payson
+    birthdate: 1872
+    deathdate: 1942
+    gutenberg_agent_id: '891'
+    url: http://www.gutenberg.org/2009/agents/891
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Payson_Terhune
+description: Though his first claim to fame as a writer came as a chronicler of the
+  adventures of his beloved collie Lad, author Albert Payson Terhune takes a decidedly
+  different tack in the historical sketches collected in Superwomen. This fascinating
+  volume brings together a series of engaging and well-researched biographical essays
+  about women like Helen of Troy and Cleopatra who played by their own rules -- and
+  sometimes changed history in the process.
+gutenberg_issued: '2012-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39339'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Biography'
+- !lcc 'CT'
+tableOfContents: Lola Montez -- Ninon de L'Enclos -- Peg Woffington -- Helen of Troy
+  -- Madame Jumel -- Adrienne Lecouvreur -- Cleopatra -- George Sand -- Madame du
+  Barry -- Lady Blessington -- Madame Recamier -- Lady Hamilton.
+title: Superwomen
+url: http://www.gutenberg.org/ebooks/39339
